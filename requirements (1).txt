@@ -1,0 +1,11 @@
+streamlit
+streamlit-autorefresh
+numpy
+pandas
+plotly
+requests
+sympy
+scipy
+openpyxl
+reportlab
+matplotlib
